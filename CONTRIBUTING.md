@@ -314,3 +314,4 @@ Here is some advice regarding what makes a good pull request (PR) from our persp
 ## Acknowledgement
 Thanks to the awesome guys at [cmd2](https://github.com/python-cmd2/cmd2) for their fantastic `CONTRIBUTING` file from
 which we have borrowed heavily.
+
